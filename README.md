@@ -84,6 +84,8 @@ The header which contains some metadata like the virtual MAC address of the edge
 hostname and the community name optionally can be encrypted applying `-H` on the edges.
 
 
+
+<-------by 刘琳锋-------->
 ## Advanced Configuration
 
 More information about communities, support for multiple supernodes, routing, traffic restrictions and on how to run an edge as 
@@ -117,3 +119,5 @@ Here is a list of third-party projects connected to this repository:
 ---
 
 (C) 2007-22 - ntop.org and contributors
+
+<-------by 刘琳锋-------->
