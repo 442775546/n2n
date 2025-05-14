@@ -1,4 +1,4 @@
-<!-- by 文荣平 -->
+<!-- by 文荣平  -->
 ### Quick Setup
 - **Installation Method**: In some Linux distributions, `n2n` is provided as a software package, and you can install it using `sudo apt install n2n`. Additionally, the latest software packages for most distributions can be obtained from [ntop repositories](http://packages.ntop.org/).
 - **Example Configuration**: Here are examples of configuring edge nodes on different hosts:
